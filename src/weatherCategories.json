@@ -1,0 +1,24 @@
+{
+  "Cloudy":
+    {
+      "name": "Cloudy",
+      "image": "./Mostly Cloudy-2x.png",
+      "weatherText": [
+        "Intermittent Clouds",
+        "Mostly Cloudy",
+        "Mostly Cloudy w/ Showers",
+        "Cloudy"
+      ]
+    },
+  "Clear":
+    {
+      "name": "Clear",
+      "image": "./Mostly Sunny-2x.png",
+      "weatherText": [
+        "Sunny",
+        "Mostly Sunny",
+        "Partly Sunny",
+        "Partly Sunny w/ Showers"
+      ]
+    }
+}
